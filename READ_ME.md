@@ -15,4 +15,8 @@ OP = Optimization possible
 458 | The Decoder | ASCII-value, simple
 10300 | Ecological Premium | weird/misleading output
 102 | Ecological Bin Packing | annoying, OP
-10035 | | interesting
+10035 | Primary Arithmetic | parsing_int, good
+494 | Kindergarten Counting Game | sample input does not have weird cases, trivial if you know ASCII or use isalpha
+10082 | WERTYU | brute-force is the only solution ??? skipping this :expressionless:
+10189 | Minesweeper | idk how, vector? :expressionless:, parsing_string
+11498 | Division of Nlogonia | trivial
