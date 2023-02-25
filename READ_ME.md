@@ -20,3 +20,8 @@ OP = Optimization possible
 10082 | WERTYU | brute-force is the only solution ??? skipping this :expressionless:
 10189 | Minesweeper | idk how, vector? :expressionless:, parsing_string
 11498 | Division of Nlogonia | trivial
+299 | Train Swapping | :confused: ???
+11547 | Automatic Answer | trivial
+10018 | Reverse and Add | int_palindrome long_long
+136 | Ugly Numbers | no_input ignore_for_now
+11332 | Summing Digits | fun
